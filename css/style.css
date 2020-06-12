@@ -3,7 +3,7 @@
 }
 
 .jumbotron {
-    background-color: rgb(60, 134, 112);
+    background-color: rgba(60, 134, 112, 0.116);
     -webkit-backdrop-filter: blur(4px);
     backdrop-filter: blur(4px);  
 }
